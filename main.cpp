@@ -636,7 +636,7 @@ int main()
                 railfence_dec(key);
             }        
         }
-        else cout << "Invalid Input..." << endl;
+        else cout << "Goodbye!" << endl;
         
     }
     while (option!=3);
